@@ -1,7 +1,25 @@
 body {
-    background-color: #FDFD96;
+    background-color: #f8e8a6;;
 }
 
-h1{
+h1 {
     text-align: center;
+}
+
+.about-croissant {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+   
+}
+
+footer a {
+    color: green;
+    margin: 0 10px;
 }
